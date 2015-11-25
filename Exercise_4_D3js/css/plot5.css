@@ -1,0 +1,14 @@
+.axis path {
+    fill: none;
+    stroke: #777;
+    shape-rendering: crispEdges;
+}
+.axis text {
+    font-family: Lato;
+    font-size: 13px;
+}
+
+h2{
+  text-align: center;
+  text-decoration: underline;
+}

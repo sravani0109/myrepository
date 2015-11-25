@@ -1,0 +1,1300 @@
+{
+  "continents": [
+    {
+      "eu": [
+        {
+          "year": 1961,
+          "hectares": 113920800
+        },
+        {
+          "year": 1962,
+          "hectares": 113564800
+        },
+        {
+          "year": 1963,
+          "hectares": 113117400
+        },
+        {
+          "year": 1964,
+          "hectares": 112329400
+        },
+        {
+          "year": 1965,
+          "hectares": 111574200
+        },
+        {
+          "year": 1966,
+          "hectares": 110507400
+        },
+        {
+          "year": 1967,
+          "hectares": 109973800
+        },
+        {
+          "year": 1968,
+          "hectares": 109250800
+        },
+        {
+          "year": 1969,
+          "hectares": 108973500
+        },
+        {
+          "year": 1970,
+          "hectares": 107950100
+        },
+        {
+          "year": 1971,
+          "hectares": 105557600
+        },
+        {
+          "year": 1972,
+          "hectares": 105104700
+        },
+        {
+          "year": 1973,
+          "hectares": 104515900
+        },
+        {
+          "year": 1974,
+          "hectares": 104483800
+        },
+        {
+          "year": 1975,
+          "hectares": 104091700
+        },
+        {
+          "year": 1976,
+          "hectares": 103774400
+        },
+        {
+          "year": 1977,
+          "hectares": 103729500
+        },
+        {
+          "year": 1978,
+          "hectares": 103950400
+        },
+        {
+          "year": 1979,
+          "hectares": 103687400
+        },
+        {
+          "year": 1980,
+          "hectares": 103613100
+        },
+        {
+          "year": 1981,
+          "hectares": 103498300
+        },
+        {
+          "year": 1982,
+          "hectares": 103477600
+        },
+        {
+          "year": 1983,
+          "hectares": 102950900
+        },
+        {
+          "year": 1984,
+          "hectares": 103256100
+        },
+        {
+          "year": 1985,
+          "hectares": 103227800
+        },
+        {
+          "year": 1986,
+          "hectares": 103227700
+        },
+        {
+          "year": 1987,
+          "hectares": 103338900
+        },
+        {
+          "year": 1988,
+          "hectares": 102827600
+        },
+        {
+          "year": 1989,
+          "hectares": 102516200
+        },
+        {
+          "year": 1990,
+          "hectares": 102279400
+        },
+        {
+          "year": 1991,
+          "hectares": 101589500
+        },
+        {
+          "year": 1992,
+          "hectares": 282762400
+        },
+        {
+          "year": 1993,
+          "hectares": 284385300
+        },
+        {
+          "year": 1994,
+          "hectares": 282427100
+        },
+        {
+          "year": 1995,
+          "hectares": 280111800
+        },
+        {
+          "year": 1996,
+          "hectares": 279047300
+        },
+        {
+          "year": 1997,
+          "hectares": 280276200
+        },
+        {
+          "year": 1998,
+          "hectares": 277714500
+        },
+        {
+          "year": 1999,
+          "hectares": 275637800
+        },
+        {
+          "year": 2000,
+          "hectares": 274812500
+        },
+        {
+          "year": 2001,
+          "hectares": 271314900
+        },
+        {
+          "year": 2002,
+          "hectares": 269830500
+        },
+        {
+          "year": 2003,
+          "hectares": 267722430
+        },
+        {
+          "year": 2004,
+          "hectares": 267815600
+        },
+        {
+          "year": 2005,
+          "hectares": 266644550
+        },
+        {
+          "year": 2006,
+          "hectares": 269706220
+        },
+        {
+          "year": 2007,
+          "hectares": 268239020
+        },
+        {
+          "year": 2008,
+          "hectares": 268976800
+        },
+        {
+          "year": 2009,
+          "hectares": 268888870
+        },
+        {
+          "year": 2010,
+          "hectares": 264683530
+        },
+        {
+          "year": 2011,
+          "hectares": 265761990
+        },
+        {
+          "year": 2012,
+          "hectares": 266119150
+        },
+        {
+          "year": 2013,
+          "hectares": 268365700
+        }
+      ]
+    },
+    {
+      "as": [
+        {
+          "year": 1961,
+          "hectares": 423506500
+        },
+        {
+          "year": 1962,
+          "hectares": 424749800
+        },
+        {
+          "year": 1963,
+          "hectares": 426790200
+        },
+        {
+          "year": 1964,
+          "hectares": 427948000
+        },
+        {
+          "year": 1965,
+          "hectares": 429484400
+        },
+        {
+          "year": 1966,
+          "hectares": 429599100
+        },
+        {
+          "year": 1967,
+          "hectares": 430434500
+        },
+        {
+          "year": 1968,
+          "hectares": 430101600
+        },
+        {
+          "year": 1969,
+          "hectares": 429194800
+        },
+        {
+          "year": 1970,
+          "hectares": 429661400
+        },
+        {
+          "year": 1971,
+          "hectares": 427922700
+        },
+        {
+          "year": 1972,
+          "hectares": 430584200
+        },
+        {
+          "year": 1973,
+          "hectares": 432889700
+        },
+        {
+          "year": 1974,
+          "hectares": 433342500
+        },
+        {
+          "year": 1975,
+          "hectares": 431514800
+        },
+        {
+          "year": 1976,
+          "hectares": 431708400
+        },
+        {
+          "year": 1977,
+          "hectares": 432535400
+        },
+        {
+          "year": 1978,
+          "hectares": 434010000
+        },
+        {
+          "year": 1979,
+          "hectares": 436122300
+        },
+        {
+          "year": 1980,
+          "hectares": 434082900
+        },
+        {
+          "year": 1981,
+          "hectares": 434936000
+        },
+        {
+          "year": 1982,
+          "hectares": 441869100
+        },
+        {
+          "year": 1983,
+          "hectares": 444751900
+        },
+        {
+          "year": 1984,
+          "hectares": 454721700
+        },
+        {
+          "year": 1985,
+          "hectares": 462792000
+        },
+        {
+          "year": 1986,
+          "hectares": 462907400
+        },
+        {
+          "year": 1987,
+          "hectares": 465933000
+        },
+        {
+          "year": 1988,
+          "hectares": 465485500
+        },
+        {
+          "year": 1989,
+          "hectares": 467329000
+        },
+        {
+          "year": 1990,
+          "hectares": 467299900
+        },
+        {
+          "year": 1991,
+          "hectares": 467914600
+        },
+        {
+          "year": 1992,
+          "hectares": 510695900
+        },
+        {
+          "year": 1993,
+          "hectares": 509920800
+        },
+        {
+          "year": 1994,
+          "hectares": 507098200
+        },
+        {
+          "year": 1995,
+          "hectares": 505308800
+        },
+        {
+          "year": 1996,
+          "hectares": 502087200
+        },
+        {
+          "year": 1997,
+          "hectares": 502217600
+        },
+        {
+          "year": 1998,
+          "hectares": 502800600
+        },
+        {
+          "year": 1999,
+          "hectares": 501890700
+        },
+        {
+          "year": 2000,
+          "hectares": 497276600
+        },
+        {
+          "year": 2001,
+          "hectares": 494899600
+        },
+        {
+          "year": 2002,
+          "hectares": 492402800
+        },
+        {
+          "year": 2003,
+          "hectares": 490345900
+        },
+        {
+          "year": 2004,
+          "hectares": 492127100
+        },
+        {
+          "year": 2005,
+          "hectares": 491278560
+        },
+        {
+          "year": 2006,
+          "hectares": 484955600
+        },
+        {
+          "year": 2007,
+          "hectares": 483971800
+        },
+        {
+          "year": 2008,
+          "hectares": 481062180
+        },
+        {
+          "year": 2009,
+          "hectares": 480969560
+        },
+        {
+          "year": 2010,
+          "hectares": 480172370
+        },
+        {
+          "year": 2011,
+          "hectares": 479660740
+        },
+        {
+          "year": 2012,
+          "hectares": 480065610
+        },
+        {
+          "year": 2013,
+          "hectares": 481453880
+        }
+      ]
+    },
+    {
+      "na": [
+        {
+          "year": 1961,
+          "hectares": 249240600
+        },
+        {
+          "year": 1962,
+          "hectares": 245983500
+        },
+        {
+          "year": 1963,
+          "hectares": 248867500
+        },
+        {
+          "year": 1964,
+          "hectares": 247717600
+        },
+        {
+          "year": 1965,
+          "hectares": 246929600
+        },
+        {
+          "year": 1966,
+          "hectares": 245853600
+        },
+        {
+          "year": 1967,
+          "hectares": 244694600
+        },
+        {
+          "year": 1968,
+          "hectares": 251383500
+        },
+        {
+          "year": 1969,
+          "hectares": 259570500
+        },
+        {
+          "year": 1970,
+          "hectares": 258332500
+        },
+        {
+          "year": 1971,
+          "hectares": 257742500
+        },
+        {
+          "year": 1972,
+          "hectares": 257509500
+        },
+        {
+          "year": 1973,
+          "hectares": 257383500
+        },
+        {
+          "year": 1974,
+          "hectares": 256792800
+        },
+        {
+          "year": 1975,
+          "hectares": 257212500
+        },
+        {
+          "year": 1976,
+          "hectares": 257590500
+        },
+        {
+          "year": 1977,
+          "hectares": 258218500
+        },
+        {
+          "year": 1978,
+          "hectares": 260860500
+        },
+        {
+          "year": 1979,
+          "hectares": 261004200
+        },
+        {
+          "year": 1980,
+          "hectares": 261444000
+        },
+        {
+          "year": 1981,
+          "hectares": 261788800
+        },
+        {
+          "year": 1982,
+          "hectares": 261051500
+        },
+        {
+          "year": 1983,
+          "hectares": 261634200
+        },
+        {
+          "year": 1984,
+          "hectares": 261651500
+        },
+        {
+          "year": 1985,
+          "hectares": 262166200
+        },
+        {
+          "year": 1986,
+          "hectares": 262017200
+        },
+        {
+          "year": 1987,
+          "hectares": 260974900
+        },
+        {
+          "year": 1988,
+          "hectares": 261609900
+        },
+        {
+          "year": 1989,
+          "hectares": 262667900
+        },
+        {
+          "year": 1990,
+          "hectares": 263660900
+        },
+        {
+          "year": 1991,
+          "hectares": 264531800
+        },
+        {
+          "year": 1992,
+          "hectares": 263139800
+        },
+        {
+          "year": 1993,
+          "hectares": 262178800
+        },
+        {
+          "year": 1994,
+          "hectares": 261434600
+        },
+        {
+          "year": 1995,
+          "hectares": 261602200
+        },
+        {
+          "year": 1996,
+          "hectares": 258700200
+        },
+        {
+          "year": 1997,
+          "hectares": 257626200
+        },
+        {
+          "year": 1998,
+          "hectares": 257002800
+        },
+        {
+          "year": 1999,
+          "hectares": 255820900
+        },
+        {
+          "year": 2000,
+          "hectares": 255524100
+        },
+        {
+          "year": 2001,
+          "hectares": 256164300
+        },
+        {
+          "year": 2002,
+          "hectares": 253769500
+        },
+        {
+          "year": 2003,
+          "hectares": 253180900
+        },
+        {
+          "year": 2004,
+          "hectares": 247514300
+        },
+        {
+          "year": 2005,
+          "hectares": 245316870
+        },
+        {
+          "year": 2006,
+          "hectares": 240376580
+        },
+        {
+          "year": 2007,
+          "hectares": 241653790
+        },
+        {
+          "year": 2008,
+          "hectares": 241027600
+        },
+        {
+          "year": 2009,
+          "hectares": 236641370
+        },
+        {
+          "year": 2010,
+          "hectares": 233656570
+        },
+        {
+          "year": 2011,
+          "hectares": 228267120
+        },
+        {
+          "year": 2012,
+          "hectares": 234575060
+        },
+        {
+          "year": 2013,
+          "hectares": 231139500
+        }
+      ]
+    },
+    {
+      "af": [
+        {
+          "year": 1961,
+          "hectares": 145671510
+        },
+        {
+          "year": 1962,
+          "hectares": 147034000
+        },
+        {
+          "year": 1963,
+          "hectares": 150916910
+        },
+        {
+          "year": 1964,
+          "hectares": 152801070
+        },
+        {
+          "year": 1965,
+          "hectares": 156223130
+        },
+        {
+          "year": 1966,
+          "hectares": 154533990
+        },
+        {
+          "year": 1967,
+          "hectares": 157309870
+        },
+        {
+          "year": 1968,
+          "hectares": 158851950
+        },
+        {
+          "year": 1969,
+          "hectares": 165277030
+        },
+        {
+          "year": 1970,
+          "hectares": 162825470
+        },
+        {
+          "year": 1971,
+          "hectares": 163260560
+        },
+        {
+          "year": 1972,
+          "hectares": 159055000
+        },
+        {
+          "year": 1973,
+          "hectares": 164331000
+        },
+        {
+          "year": 1974,
+          "hectares": 159827000
+        },
+        {
+          "year": 1975,
+          "hectares": 160399000
+        },
+        {
+          "year": 1976,
+          "hectares": 161412000
+        },
+        {
+          "year": 1977,
+          "hectares": 155894000
+        },
+        {
+          "year": 1978,
+          "hectares": 155491000
+        },
+        {
+          "year": 1979,
+          "hectares": 154231000
+        },
+        {
+          "year": 1980,
+          "hectares": 156132000
+        },
+        {
+          "year": 1981,
+          "hectares": 152804000
+        },
+        {
+          "year": 1982,
+          "hectares": 154335000
+        },
+        {
+          "year": 1983,
+          "hectares": 154752740
+        },
+        {
+          "year": 1984,
+          "hectares": 158955260
+        },
+        {
+          "year": 1985,
+          "hectares": 163317000
+        },
+        {
+          "year": 1986,
+          "hectares": 168844000
+        },
+        {
+          "year": 1987,
+          "hectares": 169082000
+        },
+        {
+          "year": 1988,
+          "hectares": 170343000
+        },
+        {
+          "year": 1989,
+          "hectares": 171522000
+        },
+        {
+          "year": 1990,
+          "hectares": 173132000
+        },
+        {
+          "year": 1991,
+          "hectares": 176435000
+        },
+        {
+          "year": 1992,
+          "hectares": 178997280
+        },
+        {
+          "year": 1993,
+          "hectares": 182677000
+        },
+        {
+          "year": 1994,
+          "hectares": 184447000
+        },
+        {
+          "year": 1995,
+          "hectares": 188973000
+        },
+        {
+          "year": 1996,
+          "hectares": 191862460
+        },
+        {
+          "year": 1997,
+          "hectares": 192950920
+        },
+        {
+          "year": 1998,
+          "hectares": 193568620
+        },
+        {
+          "year": 1999,
+          "hectares": 196175000
+        },
+        {
+          "year": 2000,
+          "hectares": 195692000
+        },
+        {
+          "year": 2001,
+          "hectares": 194782920
+        },
+        {
+          "year": 2002,
+          "hectares": 197740080
+        },
+        {
+          "year": 2003,
+          "hectares": 204794370
+        },
+        {
+          "year": 2004,
+          "hectares": 205476610
+        },
+        {
+          "year": 2005,
+          "hectares": 209544920
+        },
+        {
+          "year": 2006,
+          "hectares": 210486130
+        },
+        {
+          "year": 2007,
+          "hectares": 213037600
+        },
+        {
+          "year": 2008,
+          "hectares": 217464570
+        },
+        {
+          "year": 2009,
+          "hectares": 215841140
+        },
+        {
+          "year": 2010,
+          "hectares": 218771600
+        },
+        {
+          "year": 2011,
+          "hectares": 221041850
+        },
+        {
+          "year": 2012,
+          "hectares": 229378460
+        },
+        {
+          "year": 2013,
+          "hectares": 224294230
+        }
+      ]
+    },
+    {
+      "sa": [
+        {
+          "year": 1961,
+          "hectares": 59114000
+        },
+        {
+          "year": 1962,
+          "hectares": 61688000
+        },
+        {
+          "year": 1963,
+          "hectares": 64393000
+        },
+        {
+          "year": 1964,
+          "hectares": 66051000
+        },
+        {
+          "year": 1965,
+          "hectares": 67642000
+        },
+        {
+          "year": 1966,
+          "hectares": 69738000
+        },
+        {
+          "year": 1967,
+          "hectares": 71474000
+        },
+        {
+          "year": 1968,
+          "hectares": 74983000
+        },
+        {
+          "year": 1969,
+          "hectares": 78037000
+        },
+        {
+          "year": 1970,
+          "hectares": 80251000
+        },
+        {
+          "year": 1971,
+          "hectares": 82303000
+        },
+        {
+          "year": 1972,
+          "hectares": 83634000
+        },
+        {
+          "year": 1973,
+          "hectares": 84809000
+        },
+        {
+          "year": 1974,
+          "hectares": 87002000
+        },
+        {
+          "year": 1975,
+          "hectares": 88119000
+        },
+        {
+          "year": 1976,
+          "hectares": 89399000
+        },
+        {
+          "year": 1977,
+          "hectares": 90575000
+        },
+        {
+          "year": 1978,
+          "hectares": 90621000
+        },
+        {
+          "year": 1979,
+          "hectares": 91556000
+        },
+        {
+          "year": 1980,
+          "hectares": 91753000
+        },
+        {
+          "year": 1981,
+          "hectares": 92341000
+        },
+        {
+          "year": 1982,
+          "hectares": 94665000
+        },
+        {
+          "year": 1983,
+          "hectares": 94643000
+        },
+        {
+          "year": 1984,
+          "hectares": 94828000
+        },
+        {
+          "year": 1985,
+          "hectares": 95221000
+        },
+        {
+          "year": 1986,
+          "hectares": 97086000
+        },
+        {
+          "year": 1987,
+          "hectares": 97201000
+        },
+        {
+          "year": 1988,
+          "hectares": 96909000
+        },
+        {
+          "year": 1989,
+          "hectares": 96694000
+        },
+        {
+          "year": 1990,
+          "hectares": 97287000
+        },
+        {
+          "year": 1991,
+          "hectares": 98490000
+        },
+        {
+          "year": 1992,
+          "hectares": 98186000
+        },
+        {
+          "year": 1993,
+          "hectares": 98466000
+        },
+        {
+          "year": 1994,
+          "hectares": 99291000
+        },
+        {
+          "year": 1995,
+          "hectares": 104621000
+        },
+        {
+          "year": 1996,
+          "hectares": 104685000
+        },
+        {
+          "year": 1997,
+          "hectares": 105133000
+        },
+        {
+          "year": 1998,
+          "hectares": 105690200
+        },
+        {
+          "year": 1999,
+          "hectares": 105960800
+        },
+        {
+          "year": 2000,
+          "hectares": 106649400
+        },
+        {
+          "year": 2001,
+          "hectares": 107518000
+        },
+        {
+          "year": 2002,
+          "hectares": 109288000
+        },
+        {
+          "year": 2003,
+          "hectares": 113499500
+        },
+        {
+          "year": 2004,
+          "hectares": 119348000
+        },
+        {
+          "year": 2005,
+          "hectares": 122538500
+        },
+        {
+          "year": 2006,
+          "hectares": 124790600
+        },
+        {
+          "year": 2007,
+          "hectares": 125462000
+        },
+        {
+          "year": 2008,
+          "hectares": 126691000
+        },
+        {
+          "year": 2009,
+          "hectares": 126570400
+        },
+        {
+          "year": 2010,
+          "hectares": 129971400
+        },
+        {
+          "year": 2011,
+          "hectares": 132956100
+        },
+        {
+          "year": 2012,
+          "hectares": 134666880
+        },
+        {
+          "year": 2013,
+          "hectares": 138489100
+        }
+      ]
+    },
+    {
+      "oc": [
+        {
+          "year": 1961,
+          "hectares": 33405000
+        },
+        {
+          "year": 1962,
+          "hectares": 35316000
+        },
+        {
+          "year": 1963,
+          "hectares": 36239000
+        },
+        {
+          "year": 1964,
+          "hectares": 38580000
+        },
+        {
+          "year": 1965,
+          "hectares": 40165000
+        },
+        {
+          "year": 1966,
+          "hectares": 42813000
+        },
+        {
+          "year": 1967,
+          "hectares": 44480000
+        },
+        {
+          "year": 1968,
+          "hectares": 44576000
+        },
+        {
+          "year": 1969,
+          "hectares": 44694000
+        },
+        {
+          "year": 1970,
+          "hectares": 44816500
+        },
+        {
+          "year": 1971,
+          "hectares": 44314000
+        },
+        {
+          "year": 1972,
+          "hectares": 43820000
+        },
+        {
+          "year": 1973,
+          "hectares": 43387000
+        },
+        {
+          "year": 1974,
+          "hectares": 45275000
+        },
+        {
+          "year": 1975,
+          "hectares": 45323000
+        },
+        {
+          "year": 1976,
+          "hectares": 45126000
+        },
+        {
+          "year": 1977,
+          "hectares": 44125000
+        },
+        {
+          "year": 1978,
+          "hectares": 45544000
+        },
+        {
+          "year": 1979,
+          "hectares": 46923500
+        },
+        {
+          "year": 1980,
+          "hectares": 46980000
+        },
+        {
+          "year": 1981,
+          "hectares": 45918000
+        },
+        {
+          "year": 1982,
+          "hectares": 49274000
+        },
+        {
+          "year": 1983,
+          "hectares": 47765600
+        },
+        {
+          "year": 1984,
+          "hectares": 50015000
+        },
+        {
+          "year": 1985,
+          "hectares": 50058000
+        },
+        {
+          "year": 1986,
+          "hectares": 49785400
+        },
+        {
+          "year": 1987,
+          "hectares": 49952700
+        },
+        {
+          "year": 1988,
+          "hectares": 49927000
+        },
+        {
+          "year": 1989,
+          "hectares": 50655500
+        },
+        {
+          "year": 1990,
+          "hectares": 50979000
+        },
+        {
+          "year": 1991,
+          "hectares": 48506500
+        },
+        {
+          "year": 1992,
+          "hectares": 49732700
+        },
+        {
+          "year": 1993,
+          "hectares": 48687700
+        },
+        {
+          "year": 1994,
+          "hectares": 49464700
+        },
+        {
+          "year": 1995,
+          "hectares": 42136000
+        },
+        {
+          "year": 1996,
+          "hectares": 38303500
+        },
+        {
+          "year": 1997,
+          "hectares": 41888500
+        },
+        {
+          "year": 1998,
+          "hectares": 46065900
+        },
+        {
+          "year": 1999,
+          "hectares": 47545300
+        },
+        {
+          "year": 2000,
+          "hectares": 49264000
+        },
+        {
+          "year": 2001,
+          "hectares": 51773000
+        },
+        {
+          "year": 2002,
+          "hectares": 48749800
+        },
+        {
+          "year": 2003,
+          "hectares": 47936640
+        },
+        {
+          "year": 2004,
+          "hectares": 48649600
+        },
+        {
+          "year": 2005,
+          "hectares": 50322600
+        },
+        {
+          "year": 2006,
+          "hectares": 48619000
+        },
+        {
+          "year": 2007,
+          "hectares": 45073300
+        },
+        {
+          "year": 2008,
+          "hectares": 44984260
+        },
+        {
+          "year": 2009,
+          "hectares": 46637800
+        },
+        {
+          "year": 2010,
+          "hectares": 43616300
+        },
+        {
+          "year": 2011,
+          "hectares": 48698000
+        },
+        {
+          "year": 2012,
+          "hectares": 48171500
+        },
+        {
+          "year": 2013,
+          "hectares": 47315700
+        }
+      ]
+    }
+  ]
+}

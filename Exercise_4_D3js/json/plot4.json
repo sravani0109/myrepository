@@ -1,0 +1,200 @@
+{
+  "africanCountries": [
+    {
+      "country": "DZA",
+      "perc": 3.14979804680612
+    },
+    {
+      "country": "AGO",
+      "perc": 3.28868212079891
+    },
+    {
+      "country": "BEN",
+      "perc": 22.5257183398368
+    },
+    {
+      "country": "BWA",
+      "perc": 0.457007746193072
+    },
+    {
+      "country": "BFA",
+      "perc": 21.9298245614035
+    },
+    {
+      "country": "BDI",
+      "perc": 36.993769470405
+    },
+    {
+      "country": "CPV",
+      "perc": 12.4069478908189
+    },
+    {
+      "country": "CMR",
+      "perc": 13.1158638488714
+    },
+    {
+      "country": "CAF",
+      "perc": 2.88933834151979
+    },
+    {
+      "country": "TCD",
+      "perc": 3.57369758576874
+    },
+    {
+      "country": "COM",
+      "perc": 34.9274583557227
+    },
+    {
+      "country": "CIV",
+      "perc": 9.11949685534591
+    },
+    {
+      "country": "DJI",
+      "perc": 0.0690250215703192
+    },
+    {
+      "country": "GNQ",
+      "perc": 4.27807486631016
+    },
+    {
+      "country": "ERI",
+      "perc": 6.83168316831683
+    },
+    {
+      "country": "ETH",
+      "perc": 14.565
+    },
+    {
+      "country": "GAB",
+      "perc": 1.26130321729344
+    },
+    {
+      "country": "GHA",
+      "perc": 20.3041223521139
+    },
+    {
+      "country": "GIN",
+      "perc": 11.8020511150903
+    },
+    {
+      "country": "GNB",
+      "perc": 10.6685633001422
+    },
+    {
+      "country": "KEN",
+      "perc": 9.66370313103982
+    },
+    {
+      "country": "LSO",
+      "perc": 10.6060606060606
+    },
+    {
+      "country": "LBR",
+      "perc": 4.98338870431894
+    },
+    {
+      "country": "LBY",
+      "perc": 0.975254896166043
+    },
+    {
+      "country": "MDG",
+      "perc": 6.01850259655398
+    },
+    {
+      "country": "MWI",
+      "perc": 39.2448027153161
+    },
+    {
+      "country": "MLI",
+      "perc": 5.13116809677181
+    },
+    {
+      "country": "MRT",
+      "perc": 0.436596487823809
+    },
+    {
+      "country": "MUS",
+      "perc": 39.4088669950739
+    },
+    {
+      "country": "MAR",
+      "perc": 17.3186197624916
+    },
+    {
+      "country": "MOZ",
+      "perc": 7.18482158752766
+    },
+    {
+      "country": "NAM",
+      "perc": 0.971711061715799
+    },
+    {
+      "country": "NER",
+      "perc": 11.9207389279229
+    },
+    {
+      "country": "NGA",
+      "perc": 36.2330775058467
+    },
+    {
+      "country": "RWA",
+      "perc": 45.5581678151601
+    },
+    {
+      "country": "STP",
+      "perc": 8.85416666666667
+    },
+    {
+      "country": "SEN",
+      "perc": 19.9968836025554
+    },
+    {
+      "country": "SYC",
+      "perc": 1.95652173913044
+    },
+    {
+      "country": "SLE",
+      "perc": 21.8949847603214
+    },
+    {
+      "country": "SOM",
+      "perc": 1.75343513884018
+    },
+    {
+      "country": "ZAF",
+      "perc": 10.331467574541
+    },
+    {
+      "country": "SDN",
+      "perc": 7.93686868686869
+    },
+    {
+      "country": "SWZ",
+      "perc": 10.1744186046512
+    },
+    {
+      "country": "TZA",
+      "perc": 13.0955068864303
+    },
+    {
+      "country": "TGO",
+      "perc": 45.2289023717595
+    },
+    {
+      "country": "TUN",
+      "perc": 18.1707003089598
+    },
+    {
+      "country": "UGA",
+      "perc": 33.6624775583483
+    },
+    {
+      "country": "ZMB",
+      "perc": 4.5736423680706
+    },
+    {
+      "country": "ZWE",
+      "perc": 10.3399250355435
+    }
+  ]
+}
